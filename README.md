@@ -102,7 +102,7 @@
 
 ## 🔗 관련 자료
 
-- 🗂️ [ERD 파일](https://drive.google.com/file/d/16R0uBjChg2aDMdAs_4PqOZrjyrdNen--/view?usp=sharing)
+- 📽️ [ERD 파일](https://drive.google.com/file/d/16R0uBjChg2aDMdAs_4PqOZrjyrdNen--/view?usp=sharing)
 - 📊 [발표 PPT](https://docs.google.com/presentation/d/11NJRVsx3GhBFVpGjqQiJaEui0PqJejEz/edit?usp=sharing&ouid=106436189513240672230&rtpof=true&sd=true)
 - ▶️ [시연 영상](https://drive.google.com/file/d/1hWBYnBIuDHO4ibnCwDXhyAO5j8Yuc1Nn/view?usp=sharing)
 
