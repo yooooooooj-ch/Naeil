@@ -46,7 +46,7 @@
 |------|------|
 | Language | Java |
 | UI | Java Swing |
-| DB | Oracle 11g, JDBC |
+| DB | Oracle 18c, JDBC |
 | 암호화 | SHA-256 |
 | 캘린더 UI | JCalendar 라이브러리 |
 | IDE | Eclipse |
