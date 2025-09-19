@@ -7,22 +7,6 @@
 - 사용자/관리자 분리된 기능
 - 실시간 예약 및 승인 관리
 
-<details>
-<summary><strong>📸 전체 화면 미리보기</strong> (클릭하여 보기)</summary>
-
-| 구분 | 화면 | 미리보기 |
-|------|------|----------|
-| 공통 | 로그인 | <img height="300" alt="image" src="https://github.com/user-attachments/assets/eb962efa-8770-4d1f-9f20-31300461ef0e" /> |
-| 관리자 | 관리자 메인 | <img height="300" alt="관리자페이지" src="https://github.com/user-attachments/assets/e9390e21-fc57-40cf-93fc-450fa8b5bc49" /> |
-| 관리자 | 가게 관리 | <img height="300" alt="가게관리" src="https://github.com/user-attachments/assets/7d6bd95a-baca-4028-9777-993e424b440c" /> |
-| 관리자 | 메뉴 관리 | <img height="300" alt="image" src="https://github.com/user-attachments/assets/398c9fd3-d574-416d-a59c-24f3791d90af" /> |
-| 관리자 | 예약 확인 | <img height="300" alt="예약확인" src="https://github.com/user-attachments/assets/060e4a7d-a70d-4855-9f5f-7a599f55feb9" /> |
-| 사용자 | 유저 메인 | <img height="300" alt="image" src="https://github.com/user-attachments/assets/0c799022-c865-41a0-8a1c-3cfa72eaf60e" /> |
-| 사용자 | 예약 | <img height="300" alt="image" src="https://github.com/user-attachments/assets/aa43a009-59de-40aa-adb5-64e45514bc6d" /> |
-| 사용자 | 예약 확인 | <img height="300" alt="image" src="https://github.com/user-attachments/assets/69089844-d290-463c-a331-296d40e89f01" /> |
-
-</details>
-
 ---
 
 ## 📅 개발 기간
@@ -55,6 +39,22 @@
 ---
 
 ## 🧩 주요 기능
+
+<details>
+<summary><strong>📸 전체 화면 미리보기</strong> (클릭하여 보기)</summary>
+
+| 구분 | 화면 | 미리보기 |
+|------|------|----------|
+| 공통 | 로그인 | <img height="300" alt="image" src="https://github.com/user-attachments/assets/eb962efa-8770-4d1f-9f20-31300461ef0e" /> |
+| 관리자 | 관리자 메인 | <img height="300" alt="관리자페이지" src="https://github.com/user-attachments/assets/e9390e21-fc57-40cf-93fc-450fa8b5bc49" /> |
+| 관리자 | 가게 관리 | <img height="300" alt="가게관리" src="https://github.com/user-attachments/assets/7d6bd95a-baca-4028-9777-993e424b440c" /> |
+| 관리자 | 메뉴 관리 | <img height="300" alt="image" src="https://github.com/user-attachments/assets/398c9fd3-d574-416d-a59c-24f3791d90af" /> |
+| 관리자 | 예약 확인 | <img height="300" alt="예약확인" src="https://github.com/user-attachments/assets/060e4a7d-a70d-4855-9f5f-7a599f55feb9" /> |
+| 사용자 | 유저 메인 | <img height="300" alt="image" src="https://github.com/user-attachments/assets/0c799022-c865-41a0-8a1c-3cfa72eaf60e" /> |
+| 사용자 | 예약 | <img height="300" alt="image" src="https://github.com/user-attachments/assets/aa43a009-59de-40aa-adb5-64e45514bc6d" /> |
+| 사용자 | 예약 확인 | <img height="300" alt="image" src="https://github.com/user-attachments/assets/69089844-d290-463c-a331-296d40e89f01" /> |
+
+</details>
 
 ### ✅ 사용자 기능
 - 음식점 목록 조회 및 예약 가능 시간대 확인
